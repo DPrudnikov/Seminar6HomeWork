@@ -13,7 +13,7 @@ int [] array = new int [arr];
 int i = 0;
 int count = 0;
 
-while ((num = Console.ReadLine()) != ";")
+while ((num = Console.ReadLine()) != "end")
 {
     array [i] = Convert.ToInt32(num);
     i++; 
