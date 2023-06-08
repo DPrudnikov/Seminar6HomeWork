@@ -1,0 +1,15 @@
+E:\GeekBrains\Seminar6HomeWork\Ex41\bin\Debug\net6.0\Ex41.exe
+E:\GeekBrains\Seminar6HomeWork\Ex41\bin\Debug\net6.0\Ex41.deps.json
+E:\GeekBrains\Seminar6HomeWork\Ex41\bin\Debug\net6.0\Ex41.runtimeconfig.json
+E:\GeekBrains\Seminar6HomeWork\Ex41\bin\Debug\net6.0\Ex41.dll
+E:\GeekBrains\Seminar6HomeWork\Ex41\bin\Debug\net6.0\Ex41.pdb
+E:\GeekBrains\Seminar6HomeWork\Ex41\obj\Debug\net6.0\Ex41.csproj.AssemblyReference.cache
+E:\GeekBrains\Seminar6HomeWork\Ex41\obj\Debug\net6.0\Ex41.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\Seminar6HomeWork\Ex41\obj\Debug\net6.0\Ex41.AssemblyInfoInputs.cache
+E:\GeekBrains\Seminar6HomeWork\Ex41\obj\Debug\net6.0\Ex41.AssemblyInfo.cs
+E:\GeekBrains\Seminar6HomeWork\Ex41\obj\Debug\net6.0\Ex41.csproj.CoreCompileInputs.cache
+E:\GeekBrains\Seminar6HomeWork\Ex41\obj\Debug\net6.0\Ex41.dll
+E:\GeekBrains\Seminar6HomeWork\Ex41\obj\Debug\net6.0\refint\Ex41.dll
+E:\GeekBrains\Seminar6HomeWork\Ex41\obj\Debug\net6.0\Ex41.pdb
+E:\GeekBrains\Seminar6HomeWork\Ex41\obj\Debug\net6.0\Ex41.genruntimeconfig.cache
+E:\GeekBrains\Seminar6HomeWork\Ex41\obj\Debug\net6.0\ref\Ex41.dll
